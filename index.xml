@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugoサンプル</title>
-    <link>http://tamaki.380.github.io/</link>
+    <link>https://tamaki380.github.io/</link>
     <description>Recent content on Hugoサンプル</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language><atom:link href="http://tamaki.380.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language><atom:link href="https://tamaki380.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>記事のタイトルを入れる</title>
-      <link>http://tamaki.380.github.io/hello2/</link>
+      <link>https://tamaki380.github.io/hello2/</link>
       <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://tamaki.380.github.io/hello2/</guid>
+      <guid>https://tamaki380.github.io/hello2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>テスト記事</title>
-      <link>http://tamaki.380.github.io/hello/</link>
+      <link>https://tamaki380.github.io/hello/</link>
       <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://tamaki.380.github.io/hello/</guid>
+      <guid>https://tamaki380.github.io/hello/</guid>
       <description>ここに内容を書きます</description>
     </item>
     
